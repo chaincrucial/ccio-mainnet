@@ -1,7 +1,7 @@
 {
     "name": "Chain Crucial",
-    "description": "Bare metal Node and Mithril Signer servers. High availability 40Gigabit LAN with on Gigabit Fiber WAN. Relay redundancy with bare metal and cloud.",
+    "description": "Bare metal servers with high availability and low latency Gigabit Fiber Internet.",
     "ticker": "CCIO",
     "homepage": "https://chaincrucial.io",
-    "extended": ""
+    "extended": "https://raw.githubusercontent.com/chaincrucial/ccio-mainnet/main/extendedMetadata.json"
 }
