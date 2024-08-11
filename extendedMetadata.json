@@ -1,0 +1,18 @@
+{
+  "info": {
+    "url_png_icon_64x64": "",
+    "url_png_logo": "",
+    "location": "California, USA",
+    "social": {
+      "twitter_handle": "ChainCrucial_io",
+      "youtube_handle": "chaincrucial_io",
+      "discord_handle": "CryptoCarl [CCIO]",
+    },
+    "my-pool-ids": {
+      "0": ""
+    },
+    "when-satured-then-recommend": {
+      "0": "small pools - support decentralization"
+    }
+  }
+}
